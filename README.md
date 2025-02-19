@@ -3,7 +3,7 @@
 <!--
 **Romulo-us-br/Romulo-us-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-👩🏻‍💻 Buscando ampliar meus conhecimentos em desenvolvimento Front-End
+👩🏻‍💻 Atualmente busco ampliar meus conhecimentos em desenvolvimento Front-End.
 
 💼 Buscando oportunidade de Desenvolvedor Front-End junior.
 
