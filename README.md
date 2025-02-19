@@ -1,8 +1,5 @@
 ## Olá, Me Chamo Romulo 👋
 
-<!--
-**Romulo-us-br/Romulo-us-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!-->
 👩🏻‍💻 Atualmente busco ampliar meus conhecimentos em desenvolvimento Front-End.
 
 💼 Buscando oportunidade de Desenvolvedor Front-End junior.
