@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, Me Chamo Romulo 👋
 
 <!--
 **Romulo-us-br/Romulo-us-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👩🏻‍💻 Buscando ampliar meus conhecimentos em desenvolvimento Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Buscando oportunidade de Desenvolvedor Front-End junior.
+
+🌱 Aprendendo mais sobre React e Typescript
+
+🎓 Formado em Sistemas de Informação
+
+🚀 Minhas Skills
+HTML CSS Javascript Typescript React  GIT
+
+🌎 Onde me encontrar
+| ✉️ [e-mail](Romulop.brasil25@gmail.com) | 👔 [linkedin] (https://www.linkedin.com/in/romulo-brasil-a2121534b/)
